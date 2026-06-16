@@ -2,7 +2,7 @@
 
 🎓 **Computer Information Systems student at Florida A&M University (FAMU)**
 
-👨‍💻 I'm currently participating in **Contributor Catalyst**, a summer mentorship program that helps HBCU students gain hands-on experience contributing to open source projects and collaborating with developers across the tech industry.
+👨🏿‍💻 I'm currently participating in **Contributor Catalyst**, a summer mentorship program that helps HBCU students gain hands-on experience contributing to open source projects and collaborating with developers across the tech industry.
 
 🚀 I'm passionate about software development, information systems, networking, databases, and open source technology.
 
