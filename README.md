@@ -1,4 +1,4 @@
-# Hi, I'm Des! 👋
+# Hi, I'm Des! 👋🏿
 
 🎓 **Computer Information Systems student at Florida A&M University (FAMU)**
 
