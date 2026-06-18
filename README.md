@@ -31,5 +31,5 @@
 
 ## 📫 Connect With Me
 
-* LinkedIn: www.linkedin.com/in/desmond-dunlap-1935ab255/
+* LinkedIn: www.linkedin.com/in/desmonddunlap/
 * Email: [My Email!!](mailto:desmond1.dunlap@famu.edu)
